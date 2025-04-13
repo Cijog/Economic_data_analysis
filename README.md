@@ -1,0 +1,2 @@
+# Economic Data Analysis
+This project focuses on analyzing customer purchasing behavior, specifically examining the relationship between customer age, product subcategories, and quantity purchased. Using a dataset Sales Data for Economic Data Analysis, it groups data by 'Customer Age' and 'Sub Category', calculates the total 'Quantity' sold, and identifies the top-performing subcategory for each age group. The analysis is visualized with a Plotly bar chart to highlight these trends, providing insights into age-based purchasing preferences.
